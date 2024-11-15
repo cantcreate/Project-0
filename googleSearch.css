@@ -1,10 +1,13 @@
 
 .wholebody {
-    margin: 2cm;
-    padding: 2cm;
+    margin: 1cm;
+    padding: 1cm;
 }
 #heading {
     text-align: center;
+    color: #194E37;
+    
+
 }
 .googlesearch {
     text-align: center;
@@ -13,6 +16,15 @@
 }
 #searchbutton {
     text-align: center;
+    border-radius: 5px;
+
+
+
+}
+.searchimage {
+    text-align: right;
+    background-image: url('wah.jpg');
+    border-radius: 1cm;
 
 
 }
