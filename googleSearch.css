@@ -1,7 +1,12 @@
-
+#title {
+    text-align: center;
+}
 .wholebody {
     margin: 1cm;
     padding: 1cm;
+    font-size: 14px;
+    background-color: transparent;
+    background-size: auto;
 }
 #heading {
     text-align: center;
@@ -16,14 +21,14 @@
 }
 #searchbutton {
     text-align: center;
-    border-radius: 5px;
+    border-radius: 50%;
+
 
 
 
 }
 .searchimage {
     text-align: right;
-    background-image: url('wah.jpg');
     border-radius: 1cm;
 
 
