@@ -1,7 +1,11 @@
-
+#title {
+    text-align: center;
+    background-image: url("google.jpg");
+}
 .wholebody {
     margin: 1cm;
     padding: 1cm;
+    font-size: 14px;
 }
 #heading {
     text-align: center;
