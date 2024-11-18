@@ -2,6 +2,8 @@
 .wholebody {
     margin: 1cm;
     padding: 1cm;
+    font-size: 120%;
+    text-align: center;
 }
 #heading {
     text-align: center;
@@ -11,12 +13,14 @@
 }
 .googlesearch {
     text-align: center;
-    margin-top: 0px;
+    margin-bottom: 10px;
+    border-radius: 20px;
 
 }
 #searchbutton {
     text-align: center;
-    border-radius: 50%;
+    border-radius: 120%;
+    margin-top: 4px;
 
 
 
@@ -24,7 +28,8 @@
 }
 .searchimage {
     text-align: right;
-    border-radius: 1cm;
+    text-decoration-color: black;
+    font-size: 100%;
 
 
 }
