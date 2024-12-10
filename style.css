@@ -82,3 +82,8 @@ header nav .circuledmenu ul:hover {
     
 
 }
+.googlesebutton {
+    border: 1px solid white;
+    justify-content: center;
+}
+
