@@ -1,0 +1,84 @@
+body {
+    background-color: #fefefe;
+}
+
+.wholebody {
+    margin: 1cm;
+    text-align: center;
+    justify-content: flex;
+}
+a {
+    text-decoration: none;
+}
+
+header {
+    display: flex;
+    justify-content: flex-end;
+    
+    
+}
+header nav {
+    display: flex;
+    justify-content: flex-end;
+    
+}
+header nav a {
+    margin-right: 0.5cm;
+
+}
+header nav div button {
+    margin-left: 0.5cm;
+}
+.profileimage {
+    border-radius: 50%;
+}
+
+
+header nav a:hover{
+    text-decoration: underline;
+}
+
+header nav .circuledmenu {
+    margin-top: -0.6cm;
+    padding: 0.1cm;
+    margin-left: -1cm;
+    justify-content: flex-end;
+    border-radius: 50%;
+    margin-bottom: 0.1cm;
+    
+
+    
+    }
+
+header nav .circuledmenu ul {
+        display: grid;
+        grid-template-columns:repeat(3, 1fr);
+        gap: 0.1cm;
+} 
+
+
+header nav .circuledmenu ul li {
+    height: 0.1cm;
+    width: 0.1cm;
+    
+}
+header nav .circuledmenu ul:hover {
+    color:rgb(44, 156, 167);
+
+
+
+}
+
+
+.righthead {
+    text-align: right;
+    text-decoration: none;
+}
+.headingimage {
+    height: 5cm;
+    width: 9cm;
+    margin-bottom: -0.5cm;
+    display: flex;
+    
+
+}
