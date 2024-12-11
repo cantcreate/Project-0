@@ -1,12 +1,9 @@
 body {
-    background-color: #fefefe;
+    margin: 1cm;
+    background-color: #eceaea;
+
 }
 
-.wholebody {
-    margin: 1cm;
-    text-align: center;
-    justify-content: flex;
-}
 a {
     text-decoration: none;
 }
@@ -64,26 +61,65 @@ header nav .circuledmenu ul li {
 }
 header nav .circuledmenu ul:hover {
     color:rgb(44, 156, 167);
-
-
-
 }
-
-
 .righthead {
     text-align: right;
     text-decoration: none;
 }
-.headingimage {
+.googleimage {
+    text-align: center;
+}
+.googleimage img{
     height: 5cm;
     width: 9cm;
-    margin-bottom: -0.5cm;
-    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.searchsection form .magnifier{
+    text-align: center;
+}
+
+.googlesearch {
+    text-align: center;
+    margin-top: -0.5cm;
     
 
 }
+
+
+
+.magnifier {
+    height: 0.3cm;
+    width: 0.3cm;
+}
+.searchsection {
+    text-align: center;
+    margin-bottom: 1cm;
+}
+.searchsection form {
+    max-width: 600px;
+    margin: auto;
+}
+.searchsection form label {
+    position: absolute;
+    top: 83%;
+    transform: translateX(60%);
+    color: #9f9d9d;
+}
+
+.searchsection form input {
+    padding: 0.2cm;
+    width: 100%;
+    border-radius: 30px;
+    border: 1px solid #6d6c6c;
+    transition: 0.5s;
+}
+
+
 .googlesebutton {
     border: 1px solid white;
     justify-content: center;
 }
+
+
 
