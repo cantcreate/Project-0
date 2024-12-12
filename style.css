@@ -77,6 +77,7 @@ header nav .circuledmenu ul:hover {
 }
 .searchsection form .magnifier{
     text-align: center;
+    
 }
 
 .googlesearch {
@@ -85,9 +86,6 @@ header nav .circuledmenu ul:hover {
     
 
 }
-
-
-
 .magnifier {
     height: 0.3cm;
     width: 0.3cm;
@@ -108,8 +106,8 @@ header nav .circuledmenu ul:hover {
 }
 
 .searchsection form input {
-    padding: 0.2cm;
-    width: 100%;
+    padding: 0.3cm;
+    width: 90%;
     border-radius: 30px;
     border: 1px solid #6d6c6c;
     transition: 0.5s;
