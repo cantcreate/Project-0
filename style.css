@@ -113,17 +113,28 @@ header nav .circuledmenu ul:hover {
     border-radius: 30px;
     border: 1px solid #6d6c6c;
     transition: 0.5s;
-}
-.searchsection form input: hover {
-    box-shadow: black;
+    box-shadow: #6d6c6c;
 }
 
+.searchsection form input:hover {
+    box-shadow: 2px 2px 2px grey;
 
-
-.googlesebutton {
-    border: 1px solid white;
-    justify-content: center;
 }
+.googlebutton {
+    border: 1px solid #eceaea;
+    text-align: center;
 
+}
+.googlebutton input {
+    padding: 0.2cm;
+    border-radius: 5px;
+    border: 1px solid #eceaea;
+    margin-left: 0.2cm;
+}
+.language {
+    text-align: center;
+    margin-top: 1cm;
+
+}
 
 
