@@ -1,0 +1,32 @@
+.wholebody {
+    margin: 1cm;
+    padding: 1cm;
+    text-align: center;
+
+}
+.heading nav {
+    display: flex;
+    justify-content: flex-end;
+
+}
+.circuled-menu ul li {
+    height: 0.1cm;
+    width: 0.1cm;
+    
+}
+.circuled-menu ul {
+    padding-top: 0.5cm;
+    display: grid;
+    grid-template-columns:repeat(3, 1fr);
+    gap: 0.1cm;
+    border: 1px solid white;
+}
+header .circuled-menu button {
+    border: none;
+    background-color: transparent;
+}
+header .circuled-menu button:hover {
+    background-color: #eee;
+    border-radius: 50%;
+}
+

@@ -156,9 +156,7 @@ footer .veryfoot .rightone {
     font-size: 14px;
     font-family: Arial, sans-serif;
     color: black;
-}
-.rightone {
-    white-space: nowrap;
+    cursor: pointer;
 }
 .about:hover {
     text-decoration: underline;
