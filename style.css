@@ -149,57 +149,17 @@ footer .veryfoot .leftone {
 footer .veryfoot .rightone {
     text-align: right;
 }
-.leftone {
-    text-align: center;
-    display: flex;
+.leftone .about {
+    padding: 15px;
+    white-space: nowrap;
     justify-content: space-evenly;
-    padding-right: 1cm;
+    font-size: 14px;
+    font-family: Arial, sans-serif;
+    color: black;
 }
-
-.about {
-    margin-left: -3cm;
+.rightone {
+    white-space: nowrap;
 }
 .about:hover {
     text-decoration: underline;
 }
-.advertising {
-    margin-left: -4cm;
-    padding-right: 3cm;
-}
-.advertising:hover {
-    text-decoration: underline;
-}
-.business {
-    margin-left: -7cm;
-    padding-right: 8cm;
-}
-.business:hover {
-    text-decoration: underline;
-}
-.hsw {
-    margin-left: -12cm;
-}
-.hsw:hover {
-    text-decoration: underline;
-}
-.privacy {
-    margin-left: 4cm;
-}
-.privacy:hover {
-    text-decoration: underline;
-}
-.terms {
-    
-
-}
-.terms:hover {
-    text-decoration: underline;
-}
-.setting {
-margin-left: 2cm;
-}
-.setting:hover {
-    text-decoration: underline;
-}
-
-

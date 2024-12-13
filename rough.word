@@ -1,0 +1,44 @@
+
+.advertising {
+    padding: 15px;
+    white-space: nowrap;
+}
+.advertising:hover {
+    text-decoration: underline;
+}
+.business {
+    margin-left: -11cm;
+    padding-right: 8cm;
+}
+.business:hover {
+    text-decoration: underline;
+}
+.hsw {
+    margin-left: -16cm;
+}
+.hsw:hover {
+    text-decoration: underline;
+}
+.privacy {
+    margin-right: -5.4cm;
+
+}
+.privacy:hover {
+    text-decoration: underline;
+}
+.terms {
+    margin-right: -7.5cm;
+    
+    
+}
+.terms:hover {
+    text-decoration: underline;
+}
+.setting {
+    margin-right: -8.8cm;
+}
+.setting:hover {
+    text-decoration: underline;
+}
+
+
