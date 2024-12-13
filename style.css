@@ -132,7 +132,17 @@ header nav .circuledmenu ul:hover {
 .language {
     text-align: center;
     margin-top: 1cm;
+}
 
+footer .footer .location {
+    background-color: #eceaea;
+    margin-left: 0.5cm;
+}
+footer .veryfoot .leftone {
+    text-align: left;
+}
+footer .veryfoot .rightone {
+    text-align: right;
 }
 
 
