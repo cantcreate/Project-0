@@ -1,5 +1,5 @@
 body {
-    margin: 1cm;
+    margin: 0.5cm;
     background-color: #eceaea;
 
 }
@@ -134,15 +134,26 @@ header nav .circuledmenu ul:hover {
     margin-top: 1cm;
 }
 
-footer .footer .location {
-    background-color: #eceaea;
+.location {
     margin-left: 0.5cm;
+    padding-top: 7cm;
+    padding-right: 2cm;
+    border: 1px solid #eceaea;
 }
 footer .veryfoot .leftone {
     text-align: left;
+    padding-inline: 2rem;
+    border: 1px solid #eceaea;
+
 }
 footer .veryfoot .rightone {
     text-align: right;
+}
+.leftone {
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+    padding-right: 1cm;
 }
 
 
