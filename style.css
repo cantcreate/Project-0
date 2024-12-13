@@ -156,4 +156,50 @@ footer .veryfoot .rightone {
     padding-right: 1cm;
 }
 
+.about {
+    margin-left: -3cm;
+}
+.about:hover {
+    text-decoration: underline;
+}
+.advertising {
+    margin-left: -4cm;
+    padding-right: 3cm;
+}
+.advertising:hover {
+    text-decoration: underline;
+}
+.business {
+    margin-left: -7cm;
+    padding-right: 8cm;
+}
+.business:hover {
+    text-decoration: underline;
+}
+.hsw {
+    margin-left: -12cm;
+}
+.hsw:hover {
+    text-decoration: underline;
+}
+.privacy {
+    margin-left: 4cm;
+}
+.privacy:hover {
+    text-decoration: underline;
+}
+.terms {
+    
+
+}
+.terms:hover {
+    text-decoration: underline;
+}
+.setting {
+margin-left: 2cm;
+}
+.setting:hover {
+    text-decoration: underline;
+}
+
 
