@@ -1,13 +1,6 @@
-.wholebody {
-    margin: 1cm;
-    padding: 1cm;
-    text-align: center;
-
-}
-.heading nav {
-    display: flex;
-    justify-content: flex-end;
-
+body {
+    padding: 0.2cm;
+    margin: 0.2cm;
 }
 .circuled-menu ul li {
     height: 0.1cm;
@@ -24,9 +17,26 @@
 header .circuled-menu button {
     border: none;
     background-color: transparent;
+    
 }
-header .circuled-menu button:hover {
-    background-color: #eee;
-    border-radius: 50%;
+header button circuled{
+    padding-top: 4rem;
 }
+ button .signin {
+    padding-bottom: 1cm;
+    
+}
+.headimage {
+    text-align: center;
+    height: 5cm;
+    width: 10cm;
 
+
+}
+.headimage img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+    object-position: center bottom;
+    width: auto;
+}
