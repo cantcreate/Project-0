@@ -2,6 +2,9 @@ body {
     padding: 0.2cm;
     margin: 0.2cm;
 }
+.heading {
+    text-align: end;
+}
 .circuled-menu ul li {
     height: 0.1cm;
     width: 0.1cm;
@@ -22,21 +25,27 @@ header .circuled-menu button {
 header button circuled{
     padding-top: 4rem;
 }
- button .signin {
-    padding-bottom: 1cm;
-    
+header .signin a {
+    text-decoration: none;
+    border: 2px solid rgb(15, 64, 211);
+    padding-inline: 0.5cm;
+    padding-top: 0.2cm;
+    padding-bottom: 0.2cm;
+    border-left: 30%;
+    font-size: 16px;
+    background-color: rgb(30, 77, 216);
+}
+
+header .signin a:hover {
+    text-shadow: 1px;
 }
 .headimage {
-    text-align: center;
     height: 5cm;
-    width: 10cm;
+    width: 9cm;
+    }
+.headingimage {
+    text-align:center ;
+}
 
 
-}
-.headimage img {
-    max-width: 100%;
-    max-height: 100%;
-    object-fit: contain;
-    object-position: center bottom;
-    width: auto;
-}
+
